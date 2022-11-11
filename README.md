@@ -1,1 +1,1 @@
-# node-school
+Solution to workshops problems.
