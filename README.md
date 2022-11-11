@@ -1,1 +1,1 @@
-Solution to workshops problems.
+Solutions to workshops problems.
