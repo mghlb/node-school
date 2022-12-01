@@ -8,9 +8,6 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
   "repository": {
     "url": "https://github.com/mghlb/node-school/tree/main/how-to-npm"
   }
